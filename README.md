@@ -1,6 +1,6 @@
 # SVG Path Data Transformer
 
-A [web app]((https://oyooyo.github.io/svg_path_data_transformer) for interactively transforming the data _(=the content of the "d" attribute)_ of a SVG "path" element.
+A [web app](https://oyooyo.github.io/svg_path_data_transformer) for interactively transforming the data _(=the content of the "d" attribute)_ of a SVG "path" element.
 
 ## Screenshot
 
