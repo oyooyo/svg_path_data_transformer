@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.5c428a0a.css",
-    "main.js": "/static/js/main.dfac26be.js",
-    "static/js/787.4906321e.chunk.js": "/static/js/787.4906321e.chunk.js",
-    "service-worker.js": "/service-worker.js",
-    "index.html": "/index.html",
-    "main.5c428a0a.css.map": "/static/css/main.5c428a0a.css.map",
-    "main.dfac26be.js.map": "/static/js/main.dfac26be.js.map",
-    "787.4906321e.chunk.js.map": "/static/js/787.4906321e.chunk.js.map"
+    "main.css": "/svg_path_data_transformer/static/css/main.5c428a0a.css",
+    "main.js": "/svg_path_data_transformer/static/js/main.3f55fe29.js",
+    "static/js/787.4906321e.chunk.js": "/svg_path_data_transformer/static/js/787.4906321e.chunk.js",
+    "service-worker.js": "/svg_path_data_transformer/service-worker.js",
+    "index.html": "/svg_path_data_transformer/index.html",
+    "main.5c428a0a.css.map": "/svg_path_data_transformer/static/css/main.5c428a0a.css.map",
+    "main.3f55fe29.js.map": "/svg_path_data_transformer/static/js/main.3f55fe29.js.map",
+    "787.4906321e.chunk.js.map": "/svg_path_data_transformer/static/js/787.4906321e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c428a0a.css",
-    "static/js/main.dfac26be.js"
+    "static/js/main.3f55fe29.js"
   ]
 }

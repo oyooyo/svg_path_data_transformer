@@ -2,6 +2,7 @@
 	"name": "svg_path_data_transformer",
 	"version": "0.1.0",
 	"private": true,
+	"homepage": "https://oyooyo.github.io/svg_path_data_transformer",
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.16.4",
 		"@testing-library/react": "^13.3.0",
