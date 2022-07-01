@@ -1,6 +1,10 @@
 # SVG Path Data Transformer
 
-A web app for interactively transforming the data _(=the content of the "d" attribute)_ of a SVG "path" element.
+A [web app]((https://oyooyo.github.io/svg_path_data_transformer) for interactively transforming the data _(=the content of the "d" attribute)_ of a SVG "path" element.
+
+## Screenshot
+
+![Screenshot](https://raw.githubusercontent.com/oyooyo/svg_path_data_transformer/master/screenshot.png)
 
 ## Usage
 
@@ -12,10 +16,6 @@ There is no proper documentation on how to use it the web app yet. But the basic
 - Add one or more transformations in the "Transformations" section and set up the transformation parameters
 - The "Transformed path data" section contains the transformed SVG path data
 - Optionally have a look at the "Transformed path data bounds"/"Transformed path data preview" sections that will show some statistics about the bounds of the transformed SVG path data/a preview of the transformed SVG path data
-
-## Screenshot
-
-![Screenshot](https://raw.githubusercontent.com/oyooyo/svg_path_data_transformer/master/screenshot.png)
 
 ## Credits
 
